@@ -1,0 +1,7 @@
+/* Custom overrides: keep light, bootstrappy */
+:root { scroll-behavior: smooth; }
+.hero { padding: 6rem 0; }
+.navbar-brand strong { letter-spacing: 0.5px; }
+footer a { text-decoration: none; }
+.project-card { transition: transform .2s ease, box-shadow .2s ease; }
+.project-card:hover { transform: translateY(-4px); box-shadow: 0 8px 30px rgba(0,0,0,.08); }
