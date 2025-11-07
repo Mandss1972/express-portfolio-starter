@@ -1,6 +1,6 @@
 # Express Portfolio Starter (INFR3120 Assignment 2)
 
-A clean, rubric-aligned starter for a personal portfolio built with **Node.js + Express + EJS**, Bootstrap, and Font Awesome.
+My personal portfolio built with **Node.js + Express + EJS**, Bootstrap, and Font Awesome.
 
 ## Quickstart
 ```bash
@@ -41,12 +41,6 @@ npm start     # run normally
   - `docs: readme with deployment steps & rubric mapping`
   - `ci: add render.yaml` (optional, if using infra-as-code)
 
-## Academic Integrity & Citations
-- External snippets kept below 10% and documented here.
-- Example citation (replace with your sources):
-  - Navbar and card structure inspired by Bootstrap docs.
-  - Assignment specification referenced from course handout (PDF on Canvas).
-
 ## Rubric Mapping
 - **GUI/Interface (8 pts)**: Bootstrap + FA, clean layout, consistent nav/footer, responsive design.
 - **Functionality (12 pts)**: At least 1 EJS view template; dedicated Express route per page; form POST.
@@ -65,4 +59,4 @@ npm start     # run normally
 - Add your own CSS in `public/stylesheets/style.css` and hero copy in `views/index.ejs`.
 
 ---
-© 2025 Amanda Ahanonu. For INFR3120 educational use.
+© 2025 Amanda Ahanonu.
